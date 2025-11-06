@@ -1,6 +1,4 @@
 # SPRING-SECURITY---COMPLETE-REQUEST-TO-RESPONSE-FLOW
-
-SPRING SECURITY - COMPLETE REQUEST TO RESPONSE FLOW
 ====================================================
 1. OVERVIEW
 ------------
@@ -8,6 +6,7 @@ Spring Security works like a series of intelligent gates (filters) that examine 
 reaches your REST API.
 It ensures only authenticated and authorized users can access protected endpoints.
 Request -> Filters -> Authentication -> Authorization -> Controller -> Response
+
 ====================================================
 2. FILTER CHAIN STAGES
 -----------------------
